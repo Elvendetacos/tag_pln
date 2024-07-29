@@ -27,12 +27,19 @@ tags_deporte = [
         "correr",
         "baloncesto",
         "natación",
+        "nadar",
         "tenis",
         "ciclismo",
         "voleibol",
         "béisbol",
         "gimnasia",
-        "yoga"
+        "yoga",
+        "entrenar",
+        "atletismo",
+        "boxeo",
+        "karate",
+        "gimnasio",
+        "gym"
       ]
 groserias = ["puto", "puta", "pendejo", "pendeja", "idiota", "imbecil", "estupido", "estupida",
              "mierda", "cabron", "cabrona", "verga", "vergota", "vergudo", "culero", "culera",
@@ -112,7 +119,8 @@ tags_tecnologia = [
     "telefonos",
     "computadoras",
     "tablets",
-    "smartwatches"
+    "smartwatches",
+    "tecnología"
 ]
 tags_arte = [
     "pintura",
