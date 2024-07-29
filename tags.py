@@ -11,7 +11,7 @@ tags_entretenimiento = [
     "teatro",
     "música",
     "televisión",
-    "videojugador"
+    "videojugador",
     "juegos de Mesa",
     "ajedrez",
     "cartas",
@@ -170,7 +170,7 @@ tag_dict = {
 
 @app.route('/tags', methods=['POST'])
 def get_tags():
-    descripcion = request.json.get('descripcion', '').lower()
+    descripcion = request.json.get('description', '').lower()
     if not descripcion:
         return jsonify({'error': 'No se proporcionó descripción'}), 400
 
@@ -191,7 +191,7 @@ def get_tags():
 
     tags = list(set(tags))
 
-    return jsonify({'descripcion': descripcion, 'tags': tags})
+    return jsonify({'description': descripcion, 'tags': tags})
 
 if __name__ == '__main__':
     app.run(debug=True)
