@@ -39,7 +39,8 @@ tags_deporte = [
         "boxeo",
         "karate",
         "gimnasio",
-        "gym"
+        "gym",
+        "deporte"
       ]
 groserias = ["puto", "puta", "pendejo", "pendeja", "idiota", "imbecil", "estupido", "estupida",
              "mierda", "cabron", "cabrona", "verga", "vergota", "vergudo", "culero", "culera",
@@ -55,7 +56,8 @@ tags_bienestar = [
     "fitness",
     "pilates",
     "relajación",
-    "acupuntura"
+    "acupuntura",
+    "bienestar"
 ]
 tags_ciencia = [
     "astronomía",
@@ -67,7 +69,8 @@ tags_ciencia = [
     "ecología",
     "genética",
     "antropología",
-    "botánica"
+    "botánica",
+    "ciencia"
 ]
 tags_viajes = [
     "turismo aventura",
@@ -79,7 +82,8 @@ tags_viajes = [
     "tours gastronómicos",
     "viajes en tren",
     "viajes en caravana",
-    "turismo de salud"
+    "turismo de salud",
+    "viajes"
 ]
 tags_literatura = [
     "poesía",
@@ -91,7 +95,8 @@ tags_literatura = [
     "ciencia ficción",
     "teatro",
     "biografía",
-    "misterio"
+    "misterio",
+    "literatura"
 ]
 tags_cocina = [
     "repostería",
@@ -103,7 +108,8 @@ tags_cocina = [
     "cocina molecular",
     "decoración de pasteles",
     "cocina mediterránea",
-    "cocina cexicana"
+    "cocina cexicana",
+    "cocina"
 ]
 tags_tecnologia = [
     "programación",
